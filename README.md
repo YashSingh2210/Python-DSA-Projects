@@ -55,7 +55,14 @@ python main.py
 
 ## Screenshots
 
-Add your game screenshots inside the `screenshots` folder.
+### Gameplay
+
+![Gameplay](screenshots/gameplay.png)
+
+### Game Over
+
+![Game Over](screenshots/gameover.png)
+
 
 ## Future Improvements
 
